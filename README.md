@@ -6,3 +6,5 @@ This innovative platform enhances travel, providing a personalized and unforgett
 By utilizing advanced algorithms and machine learning techniques, this feature provides personalized recommendations, real-time travel insights,
 and interactive itineraries. Serving as a virtual travel companion, the AI guidance system offers valuable suggestions based on user preferences,
 budget constraints, and time availability, ensuring a smooth and enriching journey.
+
+To see the actual pictures of the demo.check out "screen2" "screen3"
